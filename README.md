@@ -1,5 +1,7 @@
 Tarball archiver implemented in C.
 
+(Bachelor's homework)
+
 The program receives commands from standard input and uses two aditional file: usermap.txt and file_ls.
 file_ls contains information about the files to be archived and usermap.txt contains information about the users in the system.
 Every command is represented by a line.
